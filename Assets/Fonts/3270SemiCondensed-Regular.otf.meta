@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d8bb1e47907b649e29578ae9cd488bea
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: IBM 3270 Semi-Condensed
+  fontNames:
+  - IBM 3270 Semi-Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1af97ac81c7ae43cb8b107330994e1ec, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

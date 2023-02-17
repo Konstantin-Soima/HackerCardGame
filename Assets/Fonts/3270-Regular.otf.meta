@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 725e287bb16544333b71d4339820c09b
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: IBM 3270
+  fontNames:
+  - IBM 3270
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0afdabb54aa614e7e8fa31f2102bf622, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
